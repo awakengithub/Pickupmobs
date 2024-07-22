@@ -1,0 +1,4 @@
+name: pickupmobs
+version: '1.0-SNAPSHOT'
+main: org.awaken.pickupmobs.Pickupmobs
+api-version: '1.21'
